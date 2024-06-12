@@ -2,6 +2,10 @@
 
 This Python script is a simple port scanner that utilizes the Nmap library to scan for open ports on a specified IP address. It allows users to input an IP address and a range of ports to scan, and it reports back the status of each port (open or closed).
 
+How it works:
+
+This scanner will attempt to establish a TCP connection to each port in the specified range and report back on the ports' statuses
+
 ## Features
 
 - Utilizes the Nmap library for efficient port scanning.
@@ -37,6 +41,9 @@ python3 nmap_port_scanner.py
 Install the required Python packages using pip:
 
 pip install python-nmap
+
 pip install pyfiglet
 
 Otherwise, you can install Nmap from the official nmap website [here](https://nmap.org)
+
+**If you do not wish to download Nmap, [this](https://github.com/clommm/Socket-Port-Scanner) is another alternative Port Scanner that I made, that can operate solely with the use of Window's Socket.
