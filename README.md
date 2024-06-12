@@ -32,9 +32,11 @@ python3 nmap_port_scanner.py
 
 - Python 3.x
 - Python-nmap library
+- Python pyfiglet
 
 Install the required Python packages using pip:
 
 pip install python-nmap
+pip install pyfiglet
 
 Otherwise, you can install Nmap from the official nmap website [here](https://nmap.org)
