@@ -13,7 +13,7 @@ This Python script is a simple port scanner that utilizes the Nmap library to sc
 
 1. Clone the repository:
 
-git clone https://github.com/clommm/nmap-port-scanner.git
+git clone https://github.com/clommm/Nmap-Port-Scanner.git
 
 2. Navigate to the project directory:
 
