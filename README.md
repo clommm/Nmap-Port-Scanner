@@ -36,3 +36,5 @@ python3 nmap_port_scanner.py
 Install the required Python packages using pip:
 
 pip install python-nmap
+
+Otherwise, you can install Nmap from the official nmap website [here](https://nmap.org)
