@@ -19,9 +19,6 @@ git clone https://github.com/clommm/Nmap-Port-Scanner.git
 
 cd (directory)
 
-markdown
-Copy code
-
 3. Run the script:
 
 python3 nmap_port_scanner.py
