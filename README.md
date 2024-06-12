@@ -2,10 +2,6 @@
 
 This Python script is a simple port scanner that utilizes the Nmap library to scan for open ports on a specified IP address. It allows users to input an IP address and a range of ports to scan, and it reports back the status of each port (open or closed).
 
-How it works:
-
-This scanner will attempt to establish a TCP connection to each port in the specified range and report back on the ports' statuses
-
 ## Features
 
 - Utilizes the Nmap library for efficient port scanning.
